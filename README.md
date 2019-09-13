@@ -17,7 +17,7 @@ Miss Lily is your personal health-mate. She is here to assist you to lead a heal
 
 The display part of the simulator shows how the action will look when opened on a mobile phone or any other screen which supports Google Assistant when deployed.
 
-Now normally go with the flow and test the action. :)
+Now normally go with the flow and test the action. :) Ha
 
 ## Features and Screenshots
 
