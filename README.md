@@ -50,7 +50,7 @@ Now normally go with the flow and test the action. :) Ha
 - Emergency assistance – sends email to the personal doctor and a close relative.
 
 ## License
-![](https://img.shields.io/github/license/the-AoG-guy/miss-lily)
+![](https://img.shields.io/github/license/aryadasburma/miss-lily)
 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
