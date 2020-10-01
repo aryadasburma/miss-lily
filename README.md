@@ -49,6 +49,12 @@ Now normally go with the flow and test the action. :) Ha
 
 - Emergency assistance – sends email to the personal doctor and a close relative.
 
+## Contributers:
+- Amrit Dash
+- Animesh Samantaray
+- Arya Das Burma
+- Kumar Pratyush
+
 ## License
 ![](https://img.shields.io/github/license/the-AoG-guy/miss-lily)
 
