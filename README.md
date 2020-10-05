@@ -57,7 +57,7 @@ Now normally go with the flow and test the action. :) Ha
 - Pratik Behera
 
 ## License
-![](https://img.shields.io/github/license/the-AoG-guy/miss-lily)
+![](https://img.shields.io/github/license/aryadasburma/miss-lily)
 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
